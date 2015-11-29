@@ -113,13 +113,12 @@ module Transer
                 puts 'subcommands :'
                 puts '	je	japanese -> english'
                 puts '	ej	english -> japanese'
-                puts '	trans  translation by google api'
+                puts '	trans  translation sentension by google api'
                 puts ''
                 puts 'options :'
                 puts '	--je  your japanese sentence translation to english sentence by google api'
                 puts '	--ej  your english sentence translation to japanese sentence by google api'
                 puts ''
-
             end
         end
     end
